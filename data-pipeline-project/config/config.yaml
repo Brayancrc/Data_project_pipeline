@@ -1,0 +1,19 @@
+database:
+  type: sqlite
+  name: database.db
+  user: your_username
+  password: your_password
+
+aws:
+  access_key_id: your_access_key_id
+  secret_access_key: your_secret_access_key
+  region: your_region
+
+bigquery:
+  project_id: your_project_id
+  dataset_id: your_dataset_id
+  table_name: your_table_name
+
+schedule:
+  frequency: daily
+  time: "15:00"

@@ -1,0 +1,7 @@
+pandas
+google-cloud-bigquery
+boto3
+sqlalchemy
+pyyaml
+schedule
+datetime
